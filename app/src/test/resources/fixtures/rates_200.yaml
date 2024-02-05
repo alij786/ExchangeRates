@@ -1,0 +1,4 @@
+statusCode: 200
+headers:
+  - 'content-type: application/json'
+body: ../v2_rates_200.json

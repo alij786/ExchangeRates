@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExchangeRates</string>
+    <string name="get_all_rates">Get All Rates</string>
+    <string name="exchange_rate">%1$s \u2794 %2$s: %3$.4f</string>
+</resources>
